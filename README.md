@@ -229,17 +229,11 @@ Insights & Conclusions
 
 👨‍💻 Author
 
-Naveena MK
-Lead MIS & Data Analyst
-GitHub:
-https://github.com/NaviAbhi
-LinkedIn:
-https://www.linkedin.com/in/naveen-dataanalyst/
+**Naveena MK**
 
----
+- Data Analyst | Power BI | Python | SQL | Machine Learning
+- GitHub:https://github.com/NaviAbhi
+- LinkedIn:https://www.linkedin.com/in/naveen-dataanalyst/
 
-# ⭐ If you found this project useful
+⭐ If you found this project useful, please consider giving it a Star.
 
-Please consider giving this repository a ⭐ Star.
-
-It motivates me to build more AI, Machine Learning, Power BI, SQL, and Data Analytics projects.
